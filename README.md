@@ -1,6 +1,7 @@
 <h1> 
   Sejam bem-vindos!!! <br>
 </h1>
+
 <h3>
   Esse é o meu repositorio de códigos e exercícios para o meu aprendizado de JavaScript.
 </h3>
@@ -11,7 +12,6 @@
 
 <h2> 🎯 Objetivo </h2>
 A ideia aqui e começar com dicas e exercicios simples, focando em quem tem interesse em aprender JavaScript, porém está meio perdido.
-
 
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
