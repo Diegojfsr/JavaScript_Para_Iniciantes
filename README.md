@@ -9,7 +9,6 @@
   Repositório criado para documentar e armazenar dicas, códigos, exercícios e projetos  que me ajudaram durante o meu processo de aprendizagem de JavaScript.
 </h5>
 
-
 <h2> 🎯 Objetivo </h2>
 A ideia aqui e começar com dicas e exercicios simples, focando em quem tem interesse em aprender JavaScript, porém está meio perdido.
 
@@ -30,7 +29,8 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
  </li>
 </ul>
 
-
 <h2 dir="auto"> 🤝 Contribuindo </h2>
-<p dir="auto">Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
-saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.</p>
+<p dir="auto">
+Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
+saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
+</p>
