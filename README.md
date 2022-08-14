@@ -14,6 +14,7 @@
 A ideia aqui e começar com dicas e exercicios simples, focando em quem tem interesse em aprender JavaScript, porém está meio perdido.
 
 <h2 dir="auto"> 🚦 Guia </h2>
+
 <ul dir="auto">
  <li> 
   Ex1 - Faça uma mensagem de 'Olá Mundo'...<a href="https://">Acessar</a>
